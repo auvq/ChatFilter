@@ -1,0 +1,4 @@
+name: ChatFilter
+version: '${project.version}'
+main: me.auvq.chatfilter.Main
+api-version: '1.20'

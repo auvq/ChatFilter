@@ -1,0 +1,4 @@
+name: ChatFilter
+version: '1.0-SNAPSHOT'
+main: me.auvq.chatfilter.Main
+api-version: '1.20'
